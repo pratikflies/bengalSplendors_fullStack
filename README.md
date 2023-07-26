@@ -1,5 +1,17 @@
 # bengalSplendors_fullStack
 
+BengalSplendors is a modern-day website that promotes tourism in the picturesque state of West Bengal, India. Offering a curated selection of 9 hand-picked tours, ranging from cultural experiences to natural wonders, the website aims to entice travellers and adventurers alike. 
+
+Key Features and Functionalities:
+
+-> Interactive Map: The site features an interactive map (built using MapBox), allowing users to explore the tour destinations and attractions across the state, enabling them to plan their journey efficiently.
+
+-> Online Booking: Users can conveniently book their preferred tours directly through the website (using Stripe), streamlining the booking process and making it hassle-free.
+
+-> User Management: The website incorporates a user dashboard, empowering travellers to manage their bookings, review itineraries, and update their account details with ease.
+
+Tech Stack: Node.js, Express.js, MongoDB, Mongoose, HTML, CSS, Javascript, Pug.
+
 HOMEPAGE 
 ![image](https://github.com/pratikflies/bengalSplendors_fullStack/assets/76919061/38099d36-7a1a-47e8-bdb4-46c6f7b7884c)
 
