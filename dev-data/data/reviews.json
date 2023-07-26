@@ -1,0 +1,422 @@
+[
+  {
+    "_id": "5c8a34ed14eb5c17645c9108",
+    "review": "Darjeeling tour was a breathtaking journey through captivating landscapes and rich cultural experiences!",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a355b14eb5c17645c9109",
+    "review": "Kolkata heritage tour was a delightful immersion into the city's rich history and vibrant culture! Hated the traffic though.",
+    "rating": 4,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a359914eb5c17645c910a",
+    "review": "Digha and Mandarmani tour offered the perfect blend of relaxing beaches and picturesque coastal charm!",
+    "rating": 5,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a35b614eb5c17645c910b",
+    "review": "Ganga Aarti tour was a soul-stirring experience filled with spirituality and serene devotion. However, the meals were not value for money!",
+    "rating": 4,
+    "user": "5c8a1dfa2f8fb814b56fa181",
+    "tour": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "_id": "5c8a364c14eb5c17645c910c",
+    "review": "An enchanting and mesmerizing journey, the Ganga Aarti tour was a soulful and divine experience.",
+    "rating": 5,
+    "user": "5c8a1e1a2f8fb814b56fa182",
+    "tour": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "_id": "5c8a368c14eb5c17645c910d",
+    "review": "Bishnupur tour was an architectural wonderland filled with historic marvels and artistic treasures.",
+    "rating": 5,
+    "user": "5c8a1e1a2f8fb814b56fa182",
+    "tour": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "5c8a36a014eb5c17645c910e",
+    "review": "Shantiniketan was an inspiring haven of art, culture, and tranquility, leaving me refreshed and enriched!",
+    "rating": 5,
+    "user": "5c8a1e1a2f8fb814b56fa182",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a36b714eb5c17645c910f",
+    "review": "Darjeeling's breathtaking landscapes and charming tea gardens made it an unforgettable and picturesque destination.",
+    "rating": 4,
+    "user": "5c8a1e1a2f8fb814b56fa182",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a379a14eb5c17645c9110",
+    "review": "Sunderbans offered an awe-inspiring and immersive wildlife experience, truly a nature lover's paradise.",
+    "rating": 5,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a37b114eb5c17645c9111",
+    "review": "Kolkata heritage tour was a captivating journey through the city's storied past and vibrant present, leaving me in awe.",
+    "rating": 4,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a37cb14eb5c17645c9112",
+    "review": "Kolkata's Culinary Delight tour was a delectable gastronomic adventure, tantalizing my taste buds with authentic flavors and diverse cuisines.",
+    "rating": 5,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a37dd14eb5c17645c9113",
+    "review": "Kolkata's Durga Puja Tour was an enchanting and festive celebration, immersing me in the city's vibrant culture and devotion.",
+    "rating": 4,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "5c8a37f114eb5c17645c9114",
+    "review": "Bishnupur tour was a fascinating exploration of rich terracotta art and ancient heritage.",
+    "rating": 5,
+    "user": "5c8a24402f8fb814b56fa190",
+    "tour": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "5c8a381714eb5c17645c9115",
+    "review": "Sunderbans tour was an exhilarating adventure into the heart of untamed wilderness and stunning biodiversity.",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a382d14eb5c17645c9116",
+    "review": "Kolkata heritage tour offered an enchanting glimpse into the city's vibrant history and architectural splendor!",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a384114eb5c17645c9117",
+    "review": "Kolkata Culinary Delight tour was a mouthwatering exploration of delectable flavors and authentic local cuisine!",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a385614eb5c17645c9118",
+    "review": "Digha and Mandarmani tour was a blissful seaside escape with pristine beaches and unforgettable memories!",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a387214eb5c17645c9119",
+    "review": "Ganga Aarti tour was a spiritually uplifting and mesmerizing experience by the sacred river.",
+    "rating": 5,
+    "user": "5c8a1ec62f8fb814b56fa183",
+    "tour": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "_id": "5c8a38ac14eb5c17645c911a",
+    "review": "Ganga Aarti tour was a soul-stirring and spiritually uplifting experience by the sacred river!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "_id": "5c8a38c714eb5c17645c911b",
+    "review": "Shantiniketan trip was a serene and inspiring escape into the realm of art, culture, and tranquility.",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a38da14eb5c17645c911c",
+    "review": "Durga Puja tour of Kolkata immersed us in the mesmerizing festivities and vibrant spirit of this grand celebration!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "5c8a38ed14eb5c17645c911d",
+    "review": "Digha and Mandarmani tour was a blissful seaside escape with stunning beaches and rejuvenating experiences!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a390d14eb5c17645c911e",
+    "review": "Sunderbans tour was an unforgettable adventure into the wild, immersed in the beauty and mystery of the mangrove forests and its captivating wildlife!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a391f14eb5c17645c911f",
+    "review": "Darjeeling tour was a breathtaking experience that exceeded all expectations!",
+    "rating": 5,
+    "user": "5c8a211f2f8fb814b56fa188",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a395b14eb5c17645c9120",
+    "review": "An enchanting escape to nature's wonderland in Sunderbans, an unforgettable weekend filled with awe and adventure!",
+    "rating": 5,
+    "user": "5c8a20d32f8fb814b56fa187",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a399014eb5c17645c9121",
+    "review": "Unforgettable coastal bliss: Digha, Mandarmani, and Tajpur trips were pure paradise!",
+    "rating": 4,
+    "user": "5c8a20d32f8fb814b56fa187",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a39a214eb5c17645c9122",
+    "review": "An enchanting escape to Shantiniketan filled with art, culture, and serenity.",
+    "rating": 5,
+    "user": "5c8a20d32f8fb814b56fa187",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a39b614eb5c17645c9123",
+    "review": "An enchanting journey through Bishnupur's rich cultural heritage and captivating landscapes - an unforgettable experience!",
+    "rating": 3,
+    "user": "5c8a20d32f8fb814b56fa187",
+    "tour": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "5c8a3a7014eb5c17645c9124",
+    "review": "A well-curated journey to Darjeeling and Sikkim, offering a taste of Himalayan bliss and cultural richness in one unforgettable experience.",
+    "rating": 5,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a3a8d14eb5c17645c9125",
+    "review": "An unforgettable adventure into the heart of nature's marvels, exploring the majestic Sunderbans and its mesmerizing wildlife.",
+    "rating": 5,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3a9914eb5c17645c9126",
+    "review": "A captivating journey through Kolkata's rich history and culture, from the regal Victoria Memorial to the insightful Indian Museum and serene Princep Ghat.",
+    "rating": 5,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a3aaa14eb5c17645c9127",
+    "review": "An unforgettable gastronomic adventure exploring Kolkata's diverse flavors and culinary treasures.",
+    "rating": 4,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3abc14eb5c17645c9128",
+    "review": "An enchanting spectacle of colors, traditions, and devotion, Kolkata's Durga Puja tour is an unforgettable celebration of Indian culture.",
+    "rating": 4,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "5c8a3acf14eb5c17645c9129",
+    "review": "Discover the essence of Bengal's artistic heritage amidst nature's embrace during a memorable Shantiniketan journey.",
+    "rating": 5,
+    "user": "5c8a23c82f8fb814b56fa18d",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a3b1e14eb5c17645c912a",
+    "review": "An unforgettable and serene tour, as the Ganga Aarti casts a magical spell on the heart and soul.",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "tour": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "_id": "5c8a3b3214eb5c17645c912b",
+    "review": "Immersed in Bishnupur's charm - an unforgettable fusion of history, art, and culture.",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "tour": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "5c8a3b4714eb5c17645c912c",
+    "review": "Experiencing the splendor of Durga Puja in Kolkata is an enriching cultural journey that will leave you in awe of India's diversity.",
+    "rating": 1,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "tour": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "5c8a3b6714eb5c17645c912e",
+    "review": "Immersive and enriching, the Sunderbans tour offers a rare glimpse into the untamed wilderness and its fascinating inhabitants.",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3b7c14eb5c17645c912f",
+    "review": "An exhilarating ride on the Darjeeling Himalayan Railway and a mesmerizing stroll through Sikkim's rhododendron-clad valleys - a tour like no other.",
+    "rating": 5,
+    "user": "5c8a23de2f8fb814b56fa18e",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a3b9f14eb5c17645c9130",
+    "review": "Unravel the fascinating tales of Kolkata's heritage as you traverse its iconic landmarks and cultural landmarks.",
+    "rating": 5,
+    "user": "5c8a24282f8fb814b56fa18f",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a3bc414eb5c17645c9131",
+    "review": "Exploring Kolkata's culinary delights was an enriching experience that left me with a newfound appreciation for its food culture.",
+    "rating": 5,
+    "user": "5c8a24282f8fb814b56fa18f",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3bdc14eb5c17645c9132",
+    "review": "From stunning pandals to infectious joy in the air, Kolkata's Durga Puja tour is an extraordinary cultural experience that lingers in your heart.",
+    "rating": 5,
+    "user": "5c8a24282f8fb814b56fa18f",
+    "tour": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "5c8a3bf514eb5c17645c9133",
+    "review": "Bishnupur's rich history and intricate terracotta art make it a must-visit destination for culture enthusiasts.",
+    "rating": 5,
+    "user": "5c8a24282f8fb814b56fa18f",
+    "tour": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "5c8a3c2514eb5c17645c9134",
+    "review": "A thrilling experience in the wild, where the Sunderbans' raw beauty and untamed wildlife leave you in awe.",
+    "rating": 5,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3c3b14eb5c17645c9135",
+    "review": "A journey through time, Kolkata's Heritage tour offers a delightful glimpse into the city's rich and diverse legacy.",
+    "rating": 4,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c295a"
+  },
+  {
+    "_id": "5c8a3c5314eb5c17645c9136",
+    "review": "Highly recommended for food enthusiasts seeking an authentic glimpse into Kolkata's culinary secrets.",
+    "rating": 5,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3c6814eb5c17645c9137",
+    "review": "Experience coastal magic at its finest - Digha and Mandarmani boast scenic beauty and memorable adventures.",
+    "rating": 4,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c295d"
+  },
+  {
+    "_id": "5c8a3c7814eb5c17645c9138",
+    "review": "Kolkata's Durga Puja tour offers a kaleidoscope of colors, music, and flavors, leaving you mesmerized by the city's grand festivities.",
+    "rating": 4,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c2966"
+  },
+  {
+    "_id": "5c8a3c9014eb5c17645c9139",
+    "review": "Immerse in the artistic aura of Shantiniketan, where every step tells a tale of creativity and enlightenment.",
+    "rating": 5,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a3ca314eb5c17645c913a",
+    "review": "A deeply moving and spiritual journey, beholding the Ganga Aarti's beauty and significance.",
+    "rating": 5,
+    "user": "5c8a245f2f8fb814b56fa191",
+    "tour": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "_id": "5c8a3cdc14eb5c17645c913b",
+    "review": "Darjeeling's tea-scented vistas and Sikkim's snow-capped peaks make this tour an absolute paradise for adventurers.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2955"
+  },
+  {
+    "_id": "5c8a3cf414eb5c17645c913c",
+    "review": "Sailing through the tranquil waterways of Sunderbans, witnessing rare wildlife and embracing the serenity of this unique ecosystem.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3d1e14eb5c17645c913d",
+    "review": "The culinary tour revealed the heart and soul of Kolkata through its diverse and savory dishes.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3d3a14eb5c17645c913e",
+    "review": "A cultural oasis that rejuvenates the spirit, Shantiniketan's beauty is truly a poet's muse.",
+    "rating": 4,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2970"
+  },
+  {
+    "_id": "5c8a3d5314eb5c17645c913f",
+    "review": "Exploring Bishnupur's unique terracotta temples was an awe-inspiring experience.",
+    "rating": 5,
+    "user": "5c8a24822f8fb814b56fa192",
+    "tour": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "5c8a3d8614eb5c17645c9140",
+    "review": "A mesmerizing journey into the heart of Bengal's architectural brilliance and heritage at Bishnupur.",
+    "rating": 5,
+    "user": "5c8a24a02f8fb814b56fa193",
+    "tour": "5c88fa8cf4afda39709c2974"
+  },
+  {
+    "_id": "5c8a3d9b14eb5c17645c9141",
+    "review": "A once-in-a-lifetime opportunity to immerse in the divine ambiance of the Ganga Aarti ceremony.",
+    "rating": 2,
+    "user": "5c8a24a02f8fb814b56fa193",
+    "tour": "5c88fa8cf4afda39709c296c"
+  },
+  {
+    "_id": "5c8a3de514eb5c17645c9143",
+    "review": "A delectable journey that celebrated Kolkata's culinary traditions and the passion behind each dish.",
+    "rating": 5,
+    "user": "5c8a24a02f8fb814b56fa193",
+    "tour": "5c88fa8cf4afda39709c2961"
+  },
+  {
+    "_id": "5c8a3e0714eb5c17645c9144",
+    "review": "A breathtaking journey through the mysterious mangrove forests, discovering the beauty and diversity of the Sunderbans.",
+    "rating": 5,
+    "user": "5c8a24a02f8fb814b56fa193",
+    "tour": "5c88fa8cf4afda39709c2951"
+  },
+  {
+    "_id": "5c8a3e63e12c44188b4dbc5b",
+    "review": "A vibrant immersion into the heart of Bengali traditions, Durga Puja tour in Kolkata is a must-see cultural extravaganza.",
+    "rating": 4,
+    "user": "5c8a24a02f8fb814b56fa193",
+    "tour": "5c88fa8cf4afda39709c2966"
+  }
+]

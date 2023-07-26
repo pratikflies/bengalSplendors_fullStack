@@ -1,0 +1,498 @@
+[
+  {
+    "startLocation": {
+      "description": "Darjeeling, WB",
+      "type": "Point",
+      "coordinates": [88.263176, 27.037755],
+      "address": "Darjeeling H.O, Darjeeling, West Bengal, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 27,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2024-06-19T09:00:00.000Z",
+      "2024-07-20T09:00:00.000Z",
+      "2024-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Himalayan Serenity",
+    "duration": 9,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 14200,
+    "summary": "Experience the natural beauty and cultural wonders of Darjeeling and Gangtok.",
+    "description": "Embark on a captivating journey through the picturesque Darjeeling Tea Gardens, witness the breathtaking sunrise at Tiger Hill, and immerse yourself in the serene beauty of Gangtok. Explore the sacred Rumtek Monastery, where spirituality and history converge, and be enchanted by the tranquil allure of Tsomgo Lake. \nদার্জিলিং চা বাগানগুলির প্রাকৃতিক সৌন্দর্যে একটি মহৎ প্রযান্ত শুরু করুন, টাইগার হিলে অবস্থিত অতিসুন্দর সূর্যোদয় উপলক্ষ করুন, এবং গ্যাংটকের প্রশান্ত সৌন্দর্যে মন মোহিত হওয়ার মজা নিন। পবিত্র রুমটেক মন্দির পর্বতীয় স্থানে যেখানে আধ্যাত্মিকতা এবং ইতিহাসের সংগম ঘটে, এবং শান্ত ত্সোমগো হ্রদের আকর্ষণে মগ্ন হয়ে উঠুন।",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Darjeeling Tea Garden",
+        "type": "Point",
+        "coordinates": [88.280015, 26.686431],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Tiger Hill",
+        "type": "Point",
+        "coordinates": [88.294615, 26.998117],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Gangtok",
+        "type": "Point",
+        "coordinates": [88.612267, 27.329046],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Rumtek Monastery",
+        "type": "Point",
+        "coordinates": [88.561604, 27.2885835],
+        "day": 6
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2101",
+        "description": "Tsomgo Lake",
+        "type": "Point",
+        "coordinates": [88.764131, 27.374065],
+        "day": 8
+      }
+    ]
+  },
+  {
+    "startLocation ": {
+      "description": "Gosaba, Sunderban",
+      "type": "Point",
+      "coordinates": [88.846143679041879, 22.123964274352787],
+      "address": "Sunderban Tiger Camp, Gosaba, West Bengal, India"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 19,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2024-04-25T09:00:00.000Z",
+      "2024-07-20T09:00:00.000Z",
+      "2024-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Sunderbans Safari",
+    "duration": 7,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 7500,
+    "summary": "Embark on a thrilling adventure into the mystical mangrove forests of Sundarbans.",
+    "description": "Embark on an unforgettable journey to the heart of the Sundarbans, exploring its natural wonders, from the renowned Sundarbans National Park to the captivating Sajnekhali Wildlife Sanctuary. \nসুন্দরবনের হৃদয়ে অমরণীয় একটি প্রয়াণে প্রবেশ করুন, এর প্রাকৃতিক বিস্ময় অন্বেষণ করুন, সুন্দরবন জাতীয় উদ্যান থেকে মহৎ সাজনেখালি উদ্যান প্রাণী অধ্যয়নের মজার মাঝে।",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Sundarbans National Park",
+        "type": "Point",
+        "coordinates": [88.8854086808876, 21.88439467116655],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Sajnekhali Wildlife Sanctuary",
+        "type": "Point",
+        "coordinates": [88.83127903671456, 22.12393520209866],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Dobanki Watch Tower",
+        "type": "Point",
+        "coordinates": [88.75554557586914, 21.989836723262748],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Maidan, Kolkata",
+      "type": "Point",
+      "coordinates": [88.3485260944025, 22.54954157746259],
+      "address": "Middleton Street, Park Street area, Kolkata, India"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 56,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2024-01-05T10:00:00.000Z",
+      "2024-02-12T10:00:00.000Z",
+      "2024-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Kolkata Heritage Walk",
+    "duration": 4,
+    "maxGroupSize": 20,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 5500,
+    "summary": "Embark on a fascinating Kolkata heritage walk, unraveling the city's rich history. ",
+    "description": "Embark on an enchanting Kolkata heritage walk, tracing the city's storied past and architectural marvels, from the iconic Victoria Memorial that stands as a symbol of imperial grandeur to the engineering marvel of the Howrah Bridge, connecting hearts across the Hooghly River. Discover the spiritual essence of the city at the sacred Kalighat Temple, an age-old pilgrimage site exuding cultural significance. \nসুন্দর কলকাতা ঐতিহাসিক পদযাত্রা শুরু করুন, শহরের কথা এবং স্থাপত্য অদ্ভুতকর প্রাচীন রচনাগুলির অনুসরণ করুন, প্রতীকটি ইমপিরিয়াল মহিমা হিসাবে অবস্থিত ভিক্টোরিয়া স্মারক থেকে সুন্দর হওড়া ব্রিজের প্রকৌশল অদ্ভুত রচনা, যা হুগলি নদীর পারে হৃদয় সংযোজন করে। প্রাচীন পথ প্রস্থান স্থল কালীঘাট মন্দিরে শহরের আধ্যাত্মিক সার খুঁজে পেতেন, যা সাংস্কৃতিক গুরুত্ব প্রকট করে।",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Victoria Memorial",
+        "type": "Point",
+        "coordinates": [88.3425578004391, 22.54573963702118],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Howrah Bridge",
+        "type": "Point",
+        "coordinates": [88.3465351319626, 22.586226067255037],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Park Street, Kolkata",
+      "type": "Point",
+      "coordinates": [88.34976559440275, 22.554733560641814],
+      "address": "Park Street area, Kolkata, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 26,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2024-08-05T09:00:00.000Z",
+      "2024-03-20T10:00:00.000Z",
+      "2024-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Culinary Delights",
+    "duration": 4,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 6500,
+    "summary": "A tantalizing fusion of flavors and spices that takes your taste buds on an unforgettable culinary journey.",
+    "description": "The Kolkata Street Food Extravaganza takes you on a tantalizing journey through four iconic locations. Park Street enchants with kebabs, rolls, and delightful sweets, while Tiretti Bazaar offers an authentic taste of Chinese dumplings and noodles. \nকলকাতা রাস্তা খাবার উৎসব আপনাকে চারটি প্রতীকগত স্থানের মাধ্যমে একটি মোহক প্রয়াণে নেয়। পার্ক স্ট্রিট আপনাকে কেবাব, রোল, এবং আনন্দদায়ক মিষ্টি দিয়ে মোহ করে, যেখানে তিরেটি বাজার আসল চীনা মমো এবং নুডুলসের একটি সার্থক স্বাদ প্রদান করে।",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Park Street",
+        "type": "Point",
+        "coordinates": [88.34976559440275, 22.554733560641814],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Tiretti Bazaar",
+        "type": "Point",
+        "coordinates": [88.35616170974872, 22.574238436634904],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "College Street",
+        "type": "Point",
+        "coordinates": [88.36365448538798, 22.578202845988514],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "New Market",
+        "type": "Point",
+        "coordinates": [88.35546219423712, 22.560446268484224],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Old Digha, WB",
+      "type": "Point",
+      "coordinates": [87.53778035778573, 21.628114034708272],
+      "address": "Old Digha, Contai, East Midnapore, West Bengal"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 75,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2024-03-11T10:00:00.000Z",
+      "2024-05-02T09:00:00.000Z",
+      "2024-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Seaside Getaway",
+    "duration": 4,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 9800,
+    "summary": "Experience the coastal beauty of Digha and Mandarmani with sun-kissed beaches.",
+    "description": "Embark on an enchanting coastal tour to Digha, Mandarmani, and Tajpur, where pristine beaches stretch as far as the eye can see. At Digha Beach, indulge in the tranquility of the Bay of Bengal, and explore the lively markets offering local delicacies. \nদীঘা, মান্দারমানি এবং তাজপুরের মধ্যে একটি মোহক সমুদ্রতট ভ্রমণ শুরু করুন, যেখানে প্রাকৃতিকভাবে শুদ্ধ সৈকতের দৃশ্য চোখের দূরত্বের যেমন দূর বেড়ে ছড়িয়ে পড়ে। দীঘা সৈকতে, বঙ্গোপসাগরের শান্তিতে মগ্ন হয়ে উঠুন, এবং স্থানীয় সুতরাং দ্বারা প্রদান করা স্থানীয় মিষ্টি প্রকরণে ভ্রমণ করুন।",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Digha Beach",
+        "type": "Point",
+        "coordinates": [87.53780181545837, 21.62797440591914],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Mandarmani Beach",
+        "type": "Point",
+        "coordinates": [87.6697501266258, 21.6538780543098857],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Tajpur Beach",
+        "type": "Point",
+        "coordinates": [87.61204479743863, 21.648049334892864],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Kumartuli, Kolkata",
+      "type": "Point",
+      "coordinates": [88.36147431691099, -22.599189158944473],
+      "address": "Hatkhola, Kolkata, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 59,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2024-07-19T09:00:00.000Z",
+      "2024-09-06T09:00:00.000Z",
+      "2024-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Festival of Joy",
+    "duration": 12,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 12500,
+    "summary": "A mesmerizing spectacle of vibrant festivities, grand pandals, and cultural exuberance.",
+    "description": "During Kolkata Durga Puja, the city is transformed into a mesmerizing spectacle with grand pandals and artistic displays at locations like Kumartuli Sarbojonin Durgotsav, Babu Bagan Club, College Square, Ahiritola Sarbojanin, and Mudiali Club, where cultural exuberance, mesmerizing idols of Goddess Durga, traditional dhak beats, and delectable food create an unforgettable experience, showcasing the essence of Bengali heritage and religious fervor.\nকলকাতা দুর্গা পূজার সময়ে, শহরটি দৃশ্যময় রূপান্তরিত হয় মহা প্যান্ডেল এবং কুমারতুলী সার্বজনীন দুর্গোৎসব, বাবু বাগান ক্লাব, কলেজ স্কোয়ার, আহিরিতোলা সার্বজনীন, এবং মুদিয়ালি ক্লাব এই ধরনের স্থানগুলিতে, যেখানে সাংস্কৃতিক উৎসাহ, মহামায়া দুর্গার মগ্ন, ঐতিহ্যবাহী ঢাকের ধ্বনি, এবং মোহনীয় খাবার এক অমনোনিবেশনী অভিজ্ঞতা সৃষ্টি করে, বাঙালি ঐতিহ্যের এবং ধর্মীয় উদ্দীপনার উপস্থাপন করে।",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Babu Bagan Club",
+        "type": "Point",
+        "coordinates": [88.36898145021945, 22.508147557383072],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "College Square",
+        "type": "Point",
+        "coordinates": [88.36458089440343, 22.575211487651895],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Bagbazar Sarbojanin",
+        "type": "Point",
+        "coordinates": [88.3711001213866, 22.60360626912489],
+        "day": 6
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Santosh Mitra Square",
+        "type": "Point",
+        "coordinates": [88.36555663487623, 22.5662281350516],
+        "day": 7
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "Ahiritola Sarbojanin",
+        "type": "Point",
+        "coordinates": [88.35715533673155, 22.595096707460414],
+        "day": 10
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Shantiniketan, WB",
+      "type": "Point",
+      "coordinates": [87.69769815026251, 23.6597021357129],
+      "address": "Shantiniketan, Amar Kutir Road, West Bengal, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 44,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2024-03-23T10:00:00.000Z",
+      "2024-10-25T09:00:00.000Z",
+      "2024-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "Discovering Shantiniketan",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 11000,
+    "summary": "An enchanting journey of artistic discovery amidst nature's embrace and Tagore's inspiration.",
+    "description": "A trip to Shantiniketan, West Bengal, unveils a serene escape where Visva Bharati University stands as Rabindranath Tagore's vision brought to life, fostering art, literature, and cultural education. Kala Bhavan, an integral part of the university, nurtures artistic talents and creativity, housing impressive collections of paintings and sculptures. \nপশ্চিমবঙ্গের শান্তিনিকেতনে একটি ভাবনাময় ভ্রমণ সম্পন্ন হয়, যেখানে বিশ্বভারতী বিশ্ববিদ্যালয় রবীন্দ্রনাথ ঠাকুরের দর্শন প্রকাশ পান, যা শিল্প, সাহিত্য এবং সাংস্কৃতিক শিক্ষাকে উন্নত করে। বিশ্ববিদ্যালয়ের অপরিহার্য অংশ হিসাবে কলা ভবন, কলা ক্ষেত্রে শিল্পশিল্পী ও সৃজনশীলতা সুন্দর সংগ্রহশালাগুলি ধারণ করে।",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Visva Bharati University",
+        "type": "Point",
+        "coordinates": [87.68265257909967, 23.68101661275198],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Kala Bhavan",
+        "type": "Point",
+        "coordinates": [87.68290023677228, 23.681379788411913],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Amar Kutir",
+        "type": "Point",
+        "coordinates": [87.64908772142714, 23.685061881226876],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Bishnupur, WB",
+      "type": "Point",
+      "coordinates": [87.31186325950019, 23.070361461648893],
+      "address": "Bishnupur, Bankura, West Bengal, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 37,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2024-12-16T10:00:00.000Z",
+      "2024-01-16T10:00:00.000Z",
+      "2024-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Temples of Terracotta",
+    "duration": 5,
+    "maxGroupSize": 30,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 14000,
+    "summary": "A captivating journey through the rich heritage of terracotta temples and traditional crafts.",
+    "description": "Embark on a captivating Bishnupur tour, where history and art blend seamlessly, exploring iconic locations like Rasmancha, a unique terracotta temple and an architectural marvel, Jor Bangla Temple, an exquisite example of terracotta craftsmanship, and the majestic Madanmohan Temple, showcasing exquisite terracotta panels. \nবিশ্বস্ত একটি চিত্তাকর্ষক বিষ্ণুপুর ভ্রমণ শুরু করুন, যেখানে ইতিহাস এবং শিল্প অসংলগ্নভাবে মিশে গিয়ে, রসমঞ্চ, একটি অনন্য টেরাকোটা মন্দির এবং একটি স্থাপত্য বিলম্ব, জোর বাংলা মন্দির, টেরাকোটা কারিগরতা এর একটি সুসংক্ষেপ উদাহরণ, এবং মহামাধব মন্দির, যেখানে সুসংক্ষেপ টেরাকোটা প্যানেল দেখানো হয়।",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Rasmancha",
+        "type": "Point",
+        "coordinates": [87.32201513674903, 23.068590755827916],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2000",
+        "description": "Jor Bangla Temple",
+        "type": "Point",
+        "coordinates": [87.32677543674917, 23.07200859954936],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2001",
+        "description": "Madanmohan Temple",
+        "type": "Point",
+        "coordinates": [87.32335920605895, 23.08098492962733],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2002",
+        "description": "Dalmadal Caman",
+        "type": "Point",
+        "coordinates": [87.32100190976684, 23.063431819210514],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Dakshineswar, Kolkata",
+      "type": "Point",
+      "coordinates": [88.35746632138847, 22.65510669960249],
+      "address": "Dakshineswar, Kolkata, West Bengal, India"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 31,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2024-02-12T10:00:00.000Z",
+      "2024-04-14T09:00:00.000Z",
+      "2024-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "Divine Ganges Sojourn",
+    "duration": 4,
+    "maxGroupSize": 15,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 8500,
+    "summary": "A divine journey to seek blessings amidst the sacred river's enchanting rituals and revered temples.",
+    "description": "Embark on a soul-stirring Ganga Aarti and Temples Pilgrimage, beginning at Dakshineswar Kali Temple, Kolkata, where devotees seek blessings from the powerful goddess, and then proceed to the holy confluence of Ganga and Bay of Bengal at Gangasagar, experiencing spiritual rejuvenation and taking a dip in the sacred waters. \nআত্মীয় গঙ্গা আরতি এবং মন্দির তীর্থযাত্রা শুরু করুন, কলকাতার দক্ষিণেশ্বর কালী মন্দির থেকে, যেখানে ভক্তরা শক্তিশালী দেবীর আশীর্বাদের কামনা করে, এবং তারপরে গঙ্গাসাগরের পবিত্র সঙ্গমে গমন করুন, যেখানে আধ্যাত্মিক পুনরুদ্ধার অনুভব করুন এবং পবিত্র জলে মাতাত্ত্বিক স্নান নিন।",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Dakshineswar Kali Temple",
+        "type": "Point",
+        "coordinates": [88.35755215207902, 22.655146303599906],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Gangasagar",
+        "type": "Point",
+        "coordinates": [88.07970021901006, 21.66858660760246],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Kapil Muni Temple",
+        "type": "Point",
+        "coordinates": [88.07524985204265, 21.637747590962746],
+        "day": 5
+      }
+    ]
+  }
+]
